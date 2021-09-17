@@ -8,7 +8,7 @@
 
 1. Konsep HTML
 2. Blueprint Admin Panel
-3. Layout
+3. Referensi Bootstrap
 
 ## 1. Konsep HTML
 
