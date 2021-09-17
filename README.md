@@ -1,6 +1,6 @@
-# Design Responsive Admin Panel Dengan HTML 5 dan Bootstrap 4
+# Design Responsive Admin Panel Dengan HTML 5 dan Bootstrap 4 (Front End Developer)
 
-###### Sebagai Hand On Lab untuk Kuliah Pemrograman Web pada Program Studi Sistem Informasi Polnustar
+#### Sebagai Hand On Lab untuk Kuliah Pemrograman Web pada Program Studi Sistem Informasi Polnustar
 
 2021 🚀️ author https://github.com/arpaulustindi
 
@@ -157,7 +157,7 @@ Berikut merupakan referensi Bootstrap sebagai pemahaman dasar Anda
 
 # BAGIAN >> Tugas
 
-## !!! TUGAS DIKERJAKAN BERTAHAP SESUAI INSTRUKSI & AKAN DIPERIKSA PADA REPOSITORY GITHUB KALIAN DAN HARUS DENGAN TOTAL COMMIT 8 !!! APABILA COMMIT TIDAK SESUAI DINYATAKAN TUGAS GUGUR 
+## !!! TUGAS DIKERJAKAN BERTAHAP SESUAI INSTRUKSI & AKAN DIPERIKSA PADA REPOSITORY GITHUB KALIAN DAN HARUS DENGAN TOTAL COMMIT 8 !!! APABILA COMMIT TIDAK SESUAI DINYATAKAN TUGAS GUGUR
 
 ## !!! DILARANG KERAS COPY PASTE TUGAS (Kecuali yang Diinstruksikan Di Bawah) KARENA AKAN DIKETAHUI MELALUI GIT LOG !!!
 
@@ -169,7 +169,7 @@ Silahkan download AdminLTE (Lihat materi 3. Referensi Bootstrap -> 4. Ekstra -> 
 
 ## 2. Setting Project Folder & Setting Github
 
-### 2.1 Setting root folder project
+2.1 Setting root folder project
 
 Buatlah sebuah folder (baiknya di drive D, sangat disarankan huruf kecil tanpa spasi. Contoh  **D:\web\siadmin** atau **D:\siadmin**. Setelah selesai, buka folder tesebut kemudian di dalamya buatlah folder **assets**
 
@@ -183,7 +183,20 @@ contoh
 
 Pada folder hasil ekstraksi, copy folder **dist** & **plugins** ke dalam folder **asset** yang telah dibuat sebelumnya
 
-> Kemudian **commit** dengan keterangan "*0. Setting Folder Assets*"
+2.3 Setting Github
+
+Buatlah sebuah **repository github** dengan **nama sesuai dengan nama folder** yang dibuat di atas.
+
+Pastikan Kalian mensetting git pada local folder kalian (lakukan saat ini)
+
+1. `git init`
+2. `git remote add origin https://github.com/namauserkalian/namarepositorykalian.git`
+
+Untuk setiap commit (yang akan dilakukan pada langkah-langkah tugas di bawah) pastikan
+
+1. `git add .`
+2. `git commit -m "Keterangan Commit Kalian"`
+3. `git push origin master` atau `git push origin main` Push dilakukan untuk mengirim project local ke repository kalian
 
 ## 3. Coding
 
@@ -197,7 +210,7 @@ pada root buatlah file dengan nama **referensi.html** dengan kode seperti beriku
 
 ![](assets/20210917_191743_referensi)
 
-> Kemudian **commit** dengan keterangan "*1. Membuat Part Referensi*"
+> Kemudian **commit** dengan keterangan "*1. Membuat Part Referensi*" setelah itu **push**
 
 ### 3.2X Part Navbar
 
@@ -205,7 +218,7 @@ pada root buatlah file dengan nama **navbar.html** dengan kode seperti berikut
 
 ![](assets/20210917_191344_navbar.png)
 
-> Kemudian **commit** dengan keterangan "*2. Membuat Part Navbar*"
+> Kemudian **commit** dengan keterangan "*2. Membuat Part Navbar*" setelah itu **push**
 
 ### 3.3X Part Sidebar
 
@@ -213,7 +226,7 @@ pada root buatlah file dengan nama **sidebar.html** dengan kode seperti berikut
 
 ![](assets/20210917_191447_sidebar.png)
 
-> Kemudian **commit** dengan keterangan "*3. Membuat Part Sidebar*"
+> Kemudian **commit** dengan keterangan "*3. Membuat Part Sidebar*" setelah itu **push**
 
 ### 3.4X Part Footer
 
@@ -221,7 +234,7 @@ pada root buatlah file dengan nama **footer.html** dengan kode seperti berikut (
 
 ![](assets/20210917_192554_footer)
 
-> Kemudian **commit** dengan keterangan "*4. Membuat Part Footer*"
+> Kemudian **commit** dengan keterangan "*4. Membuat Part Footer*" setelah itu **push**
 
 ### 3.5X Part Content
 
@@ -229,7 +242,7 @@ pada root buatlah file dengan nama **content.html** dengan kode seperti berikut
 
 ![](assets/20210917_193211_content)
 
-> Kemudian **commit** dengan keterangan "*5. Membuat Part Content*"
+> Kemudian **commit** dengan keterangan "*5. Membuat Part Content*" setelah itu **push**
 
 ### 3.6X Part Script
 
@@ -237,7 +250,7 @@ pada root buatlah file dengan nama **script.html** dengan kode seperti berikut
 
 ![](assets/20210917_193713_script)
 
-> Kemudian **commit** dengan keterangan "*6. Membuat Part Script*"
+> Kemudian **commit** dengan keterangan "*6. Membuat Part Script*" setelah itu **push**
 
 ---
 
@@ -261,7 +274,7 @@ Dan hasilnya dapat dilihat pada broser dengan membuka file index.php dengan brow
 
 ![](assets/20210917_200954_beranda.png)
 
-> Kemudian **commit** dengan keterangan "*7. Membuat Beranda*"
+> Kemudian **commit** dengan keterangan "*7. Membuat Beranda*" setelah itu **push**
 
 ### 3.8Z List Data
 
@@ -277,6 +290,6 @@ Dan hasilnya dapat dilihat pada browser dengan membuka file index.php dengan bro
 
 ![](assets/20210917_202021_list-baru.png)
 
-> Kemudian **commit** dengan keterangan "*8. Membuat Beranda*"
+> Kemudian **commit** dengan keterangan "*8. Membuat Beranda*" setelah itu **push**
 
 ### 3.9Z To be continue ...
