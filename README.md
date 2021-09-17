@@ -290,6 +290,6 @@ Dan hasilnya dapat dilihat pada browser dengan membuka file index.php dengan bro
 
 ![](assets/20210917_202021_list-baru.png)
 
-> Kemudian **commit** dengan keterangan "*8. Membuat Beranda*" setelah itu **push**
+> Kemudian **commit** dengan keterangan "*8. Membuat List Data" setelah itu **push**
 
 ### 3.9Z To be continue ...
